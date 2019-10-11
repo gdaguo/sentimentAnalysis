@@ -1,0 +1,5 @@
+first need to install these following:-
+nltk
+tKinter
+
+And python3.6 or greater is required.
